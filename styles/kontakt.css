@@ -1,0 +1,17 @@
+			#container {
+				background-color:#ffffff;
+				padding-bottom: 100px;
+			}
+			#dane{
+				padding-top: 100px;
+				margin:0 auto;
+			}
+			#kontakt{
+				padding-top: 50px;
+				margin:0 auto;
+			}
+			#treść{
+				margin:0 auto;
+				width: 50%;
+				border: 1px solid black;
+			}
