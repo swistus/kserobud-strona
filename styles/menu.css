@@ -15,7 +15,7 @@
 				color: aqua;
 				background-color: #969696;
 				padding: 10px 15px;
-				margin: 25px 1px 70px 0px;
+				margin: 25px 1px 1px 0px;
 				border: 1px solid navy;
 				border-radius: 3px;
 				-moz-border-radius: 5px;
@@ -29,5 +29,10 @@
 				color: blue;
 				background: aqua;
 				border: 1px solid blue;
+				height: 30px;
 			}
 			li {float: left;}
+
+			#menu{
+				height: 150px;
+			}
